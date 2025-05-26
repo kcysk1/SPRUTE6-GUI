@@ -1118,19 +1118,19 @@ end
 
 local themes = {
 	Default = {
-		["Accent"] = Color3.fromRGB(113, 93, 133),
-		["Window Background"] = Color3.fromRGB(30, 30, 30),
-		["Window Border"] = Color3.fromRGB(45, 45, 45),
-		["Tab Background"] = Color3.fromRGB(20, 20, 20),
-		["Tab Border"] = Color3.fromRGB(45, 45, 45),
-		["Tab Toggle Background"] = Color3.fromRGB(28, 28, 28),
-		["Section Background"] = Color3.fromRGB(18, 18, 18),
-		["Section Border"] = Color3.fromRGB(35, 35, 35),
-		["Text"] = Color3.fromRGB(200, 200, 200),
-		["Disabled Text"] = Color3.fromRGB(110, 110, 110),
+		["Accent"] = Color3.fromRGB(96, 96, 96),
+		["Window Background"] = Color3.fromRGB(32, 32, 32),
+		["Window Border"] = Color3.fromRGB(0, 0, 0),
+		["Tab Background"] = Color3.fromRGB(32, 32, 32),
+		["Tab Border"] = Color3.fromRGB(160, 160, 160),
+		["Tab Toggle Background"] = Color3.fromRGB(128, 128, 128),
+		["Section Background"] = Color3.fromRGB(128, 128, 128),
+		["Section Border"] = Color3.fromRGB(32, 32, 32),
+		["Text"] = Color3.fromRGB(255, 255, 255),
+		["Disabled Text"] = Color3.fromRGB(166, 166, 166),
 		["Object Background"] = Color3.fromRGB(25, 25, 25),
 		["Object Border"] = Color3.fromRGB(35, 35, 35),
-		["Dropdown Option Background"] = Color3.fromRGB(19, 19, 19)
+		["Dropdown Option Background"] = Color3.fromRGB(96, 96, 96)
 	},
 
 	Midnight = {
